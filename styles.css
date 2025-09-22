@@ -135,7 +135,7 @@
     .project-title {
       font-size: 1.4rem;
       margin-bottom: 20px;
-      color: #2c3e50;
+      color: #E600B0;
       text-align: center;
       border-bottom: 2px solid #0073e6;
       padding-bottom: 10px;
@@ -155,17 +155,17 @@
     }
 
     .instagram:hover {
-      color: #e1306c;
+      color: #E600B0;
       transform: scale(1.1);
     }
 
     .youtube:hover {
-      color: #ff0000;
+      color: #E600B0;
       transform: scale(1.1);
     }
 
     .tiktok:hover {
-      color: #000000;
+      color: #E600B0;
       transform: scale(1.1);
     }
 
@@ -180,7 +180,7 @@
     .learn-more {
       display: block;
       text-align: center;
-      color: #0073e6;
+      color: E600B0;
       text-decoration: none;
       font-weight: 600;
       padding: 8px 15px;
@@ -191,7 +191,7 @@
 
     .learn-more:hover {
       background-color: #0073e6;
-      color: #ffffff;
+      color: #E600B0;
     }
 
     /* Footer */
@@ -227,5 +227,6 @@
         max-width: 100%;
       }
     }
+
 
 
