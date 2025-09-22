@@ -40,7 +40,7 @@
 
     .navbar nav a:hover,
     .navbar nav a.active {
-      color: #D300E6;
+      color: #E600B0;
     }
 
     /* Hero Section */
@@ -227,4 +227,5 @@
         max-width: 100%;
       }
     }
+
 
